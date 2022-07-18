@@ -1,0 +1,21 @@
+@media (max-width: 740px) {
+  .container {
+    flex-direction: column;
+  }
+  .sections,
+  .other-content {
+    width: 90%;
+    margin: 0 5%;
+  }
+}
+
+@media (min-width: 740px) and (max-width: 1239px) {
+  .container {
+    flex-direction: column;
+  }
+  .sections,
+  .other-content {
+    width: 90%;
+    margin: 0 5%;
+  }
+}
